@@ -1,8 +1,10 @@
 # space_invaders
 Classic space invaders game
 
-Customizable enemy count
+Contains:
 2D enemy and player movement
+Background and player sounds
+Background, player, enemy, and laser images
 
 Potential upgrades:
 - Add enemy bullets.
